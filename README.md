@@ -3,56 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Air Quality Analysis – NYC</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.6;
-      color: #333;
-      background-color: #f8f9fa;
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
-    }
-    h1, h2 {
-      color: #1f4e79;
-    }
-    h1 {
-      text-align: center;
-      border-bottom: 2px solid #ccc;
-      padding-bottom: 0.5rem;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-    ul {
-      margin-left: 2rem;
-    }
-    code {
-      background: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    .highlight {
-      background-color: #e3f2fd;
-      border-left: 5px solid #2196f3;
-      padding: 1rem;
-      margin: 1rem 0;
-    }
-    a {
-      color: #0077cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .footer {
-      font-size: 0.9rem;
-      color: #777;
-      text-align: center;
-      margin-top: 3rem;
-    }
-  </style>
+  
+
 </head>
 <body>
 
